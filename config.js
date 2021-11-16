@@ -10,7 +10,7 @@ const CONFIG = {
     question: 'nói gì với t đi',
     btnReply: 'Gửi cho bạn <3',
     reply: 't muốn kêu tên Vy lắm rồi',
-    mess: 'phải kêu Hà Vy xinh đẹp',
+    mess: 'muốn gọi tên Vy lắm dồi',
     messDesc: 'mai t mua đồ ăn sáng cho cậu nha.',
     btnAccept: 'Okiiiii lun <3',
     
