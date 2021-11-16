@@ -2,7 +2,7 @@ const CONFIG = {
     titleWeb: "demo",
     introTitle: 'Hoàng Hà Vy',
     introDesc: `xin lỗi bạn rất nhiều`,
-    btnIntro: '^^tui tệ quá^^',
+    btnIntro: '^^kệ m^^',
     title: 't xin lỗi vì những gì t đã làm sai',
     desc: 'hãy tha thứ cho t nhé! ',
     btnYes: 'xem xét thái độ ',
