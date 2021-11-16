@@ -10,8 +10,8 @@ const CONFIG = {
     question: 'nói gì với t đi',
     btnReply: 'Gửi cho bạn <3',
     reply: 't muốn kêu tên Vy lắm rồi',
-    mess: 'Mình biết mà. ai cho mà kêu',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
+    mess: 'phải kêu Hà Vy xinh đẹp',
+    messDesc: 'mai t mua đồ ăn sáng cho cậu nha.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
